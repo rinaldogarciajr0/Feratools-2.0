@@ -1,0 +1,3 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <path fill="param(fill) #00FF07" stroke="param(outline) #232323" stroke-width="param(outline-width) 2" d="M32 4 12 28h11L8 47h18v11h12V47h18L41 28h11z"/>
+</svg>

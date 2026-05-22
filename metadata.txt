@@ -1,0 +1,17 @@
+[general]
+name=FeraTools
+qgisMinimumVersion=3.22
+description=Provides QGIS tools for area calculation in hectares, Shapefile export, coordinate capture, planting line generation, unique vertex extraction, hydrography extraction, and APP creation.
+about=FeraTools provides utility tools for QGIS, including creating and updating area fields in hectares, exporting layers to Shapefile, filling X/Y coordinate fields, generating planting lines from point grids, extracting unique vertices with coordinates, extracting hydrography data from FBDS and IDE-SISEMA, and creating APP buffers according to Lei 12.651/2012.
+tags=area,hectares,shapefile,export,coordinates,x,y,planting,grid,points,vertices,fbds,ide-sisema,hidrografia,nascentes,app,buffer
+version=1.4.0
+author=Rinaldo Garcia
+email=rinaldo.garciajr0@gmail.com
+homepage=https://github.com/rinaldogarciajr0/FeraTools
+repository=https://github.com/rinaldogarciajr0/FeraTools
+tracker=https://github.com/rinaldogarciajr0/FeraTools/issues
+category=Vector
+icon=icon.svg
+experimental=True
+deprecated=False
+hasProcessingProvider=False
